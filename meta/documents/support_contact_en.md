@@ -7,7 +7,11 @@
  
 ## Email
  
+<<<<<<< Updated upstream
 <a href="mailto:support@plentymarkets.com">support@plentymarkets.com</a>
+=======
+support@plentymarkets.com
+>>>>>>> Stashed changes
 
 ## Manual
 
