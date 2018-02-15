@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "name": "bolcom",
   "marketplaceName": "bol.com",
   "description": "Um bol.com in plentymarkets nutzen zu können, ist eine Händlerregistrierung bei bol.com nötig.",
@@ -9,8 +9,8 @@
   "email": "support@plentymarkets.eu",
   "authorIcon": "icon_author_xs.png",
   "shortDescription": {
-    "de": "Der Marktplatz bol.com ist in plentymarkets 7 bereits integriert. Um bol.com in plentymarkets nutzen zu können, ist eine Händlerregistrierung bei bol.com nötig.",
-    "en": "bol.comis already integrated into your plentymarkets 7 system. A bol.com seller account is mandatory for setting up bol.com in plentymarkets."
+    "de": "Über die Anbindung des Online-Marktplatzes bol.com wird der automatische Austausch von Artikel- und Auftragsdaten mit plentymarkets ermöglicht, um Artikel auf bol.com zu listen. Die Schnittstelle zu bol.com ist in plentymarkets 7 bereits integriert.",
+    "en": "The integration of the online marketplace bol.com enables an automatic exchange of item- and order data with plentymarkets, allowing to list items on bol.com. The interface to bol.com is already integrated into plentymarkets 7."
   },
   "license": "AGPL-3.0",
   "categories": [
