@@ -3,7 +3,7 @@
 
 <div class="container-toc"></div>
 
-Mit bol.com und plentymarkets den Beneluxmarkt erobern. bol.com startete bereits 1999 mit dem Online-Verkauf von Büchern und entwickelte sich über die Jahre zum größten Onlineshop der Niederlande mit einer umfangreichen Produktkategoriepalette. Auch in Belgien genießt bol.com einen höheren Stellenwert als beispielsweise Amazon oder eBay.
+Mit bol.com und PlentyONE den Beneluxmarkt erobern. bol.com startete bereits 1999 mit dem Online-Verkauf von Büchern und entwickelte sich über die Jahre zum größten Onlineshop der Niederlande mit einer umfangreichen Produktkategoriepalette. Auch in Belgien genießt bol.com einen höheren Stellenwert als beispielsweise Amazon oder eBay.
 
 ## Hier die wichtigsten Vorteile auf einen Blick:
 
