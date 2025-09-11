@@ -1,16 +1,16 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "name": "bolcom",
   "marketplaceName": "bol.com",
-  "description": "Um bol.com in plentymarkets nutzen zu können, ist eine Händlerregistrierung bei bol.com nötig.",
+  "description": "Um bol.com in PlentyONE nutzen zu können, ist eine Händlerregistrierung bei bol.com nötig.",
   "namespace": "MultiChannelBolCom",
   "pluginIcon": "icon_plugin_xs.png",
-  "author": "plentymarkets GmbH",
-  "email": "support@plentymarkets.eu",
+  "author": "PlentyONE GmbH",
+  "email": "https://www.plentyone.com/de/support-center",
   "authorIcon": "icon_author_xs.png",
   "shortDescription": {
-    "de": "Über die Anbindung des Online-Marktplatzes bol.com wird der automatische Austausch von Artikel- und Auftragsdaten mit plentymarkets ermöglicht, um Artikel auf bol.com zu listen. Die Schnittstelle zu bol.com ist in plentymarkets 7 bereits integriert.",
-    "en": "The integration of the online marketplace bol.com enables an automatic exchange of item- and order data with plentymarkets, allowing to list items on bol.com. The interface to bol.com is already integrated into plentymarkets 7."
+    "de": "Über die Anbindung des Online-Marktplatzes bol.com wird der automatische Austausch von Artikel- und Auftragsdaten mit PlentyONE ermöglicht, um Artikel auf bol.com zu listen. Die Schnittstelle zu bol.com ist in PlentyONE 7 bereits integriert.",
+    "en": "The integration of the online marketplace bol.com enables an automatic exchange of item- and order data with PlentyONE, allowing to list items on bol.com. The interface to bol.com is already integrated into PlentyONE 7."
   },
   "license": "AGPL-3.0",
   "categories": [

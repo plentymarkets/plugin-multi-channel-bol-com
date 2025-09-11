@@ -24,4 +24,4 @@ Compared to the previous year, the cross-border sales increased by more than 30 
 
 ## List items on bol.com as a German retailer
 
-bol.com is fully integrated into plentymarkets 7. You do not need a branch office in aforementioned countries in order to sell items on bol.com, you only need to fill in a form for your retailer registration and send it to bol.com via e-mail. For further information on retailer registration, see the general terms and conditions on bol.com.
+bol.com is fully integrated into PlentyONE. You do not need a branch office in aforementioned countries in order to sell items on bol.com, you only need to fill in a form for your retailer registration and send it to bol.com via e-mail. For further information on retailer registration, see the general terms and conditions on bol.com.

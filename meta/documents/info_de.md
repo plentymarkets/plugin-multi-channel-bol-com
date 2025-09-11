@@ -22,5 +22,5 @@ In den Niederlanden wuchs der Cross-Border-Umsatz 2015 gegenüber dem Vorjahr um
 
 ## Als deutscher Händler auf bol.com listen
 
-Bol.com ist vollständig in plentymarkets 7 integriert. Um auf bol.com zu verkaufen ist keine Niederlassung in den oben genannten Ländern nötig: Lediglich das Formular zur Händlerregistrierung muss ausgefüllt und per E-Mail an bol.com gesendet werden. Weitere Informationen zur Händlerregistrierung bei bol.com können den Geschäftsbedingungen entnommen werden.
+Bol.com ist vollständig in PlentyONE integriert. Um auf bol.com zu verkaufen ist keine Niederlassung in den oben genannten Ländern nötig: Lediglich das Formular zur Händlerregistrierung muss ausgefüllt und per E-Mail an bol.com gesendet werden. Weitere Informationen zur Händlerregistrierung bei bol.com können den Geschäftsbedingungen entnommen werden.
 
