@@ -1,12 +1,11 @@
 ## Web page
- 
-<a href="https://www.plentymarkets.co.uk/" target="_blank">plentymarkets.co.uk</a>
- 
-## Email
- 
-<a href="mailto:support@plentymarkets.com">support@plentymarkets.com</a>
 
+<a href="https://www.plentyone.com/" target="_blank">PlentyONE Homepage</a>
+
+## Support 
+
+<a href="https://www.plentyone.com/support-centre">PlentyONE Support Center</a>
 
 ## Manual
 
-<a href="https://knowledge.plentymarkets.com/en/omni-channel/multi-channel/bol-com" target="_blank">Knowledge</a>
+<a href="https://knowledge.plentymarkets.com/en-gb/manual/main/markets/bol-com.html" target="_blank">PlentyONE manual</a>
